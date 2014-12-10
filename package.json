@@ -1,0 +1,27 @@
+{
+  "name": "page-valid",
+  "version": "0.0.0",
+  "description": "page-valid ==========",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chalk": "^0.5.1",
+    "url-dom": "^0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miniflycn/page-valid.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miniflycn/page-valid/issues"
+  },
+  "homepage": "https://github.com/miniflycn/page-valid"
+}
