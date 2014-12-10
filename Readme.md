@@ -23,5 +23,6 @@ Goal
     14. 禁止a标签href为空
     15. 不同的http query应当导致不同的页面title，否则就是无意义的query
     16. 不应包含无用注释
-<del>* Javascript安全扫描</del>
+* 图片大小校验（分mobile和pc）
+* <del>Javascript安全扫描</del>
 * pagespeed校验
