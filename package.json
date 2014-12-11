@@ -10,7 +10,12 @@
     "chalk": "^0.5.1",
     "url-dom": "^0.0.2"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "connect": "^3.3.3",
+    "mocha": "^2.0.1",
+    "serve-static": "^1.7.1",
+    "should": "^4.3.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
