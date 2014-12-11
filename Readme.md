@@ -26,3 +26,17 @@ Goal
 * 图片大小校验（分mobile和pc）
 * <del>Javascript安全扫描</del>
 * pagespeed校验
+
+规则约定
+-------
+
+默认开启所有检验
+
+* disableAll 将默认设置成关闭所有检验
+
+检验开启关闭配置约定：[disable|enable]规则名
+
+* disableMetaKeywords 关闭meta keywords检验
+* enableMetaKeywords 开启meta keywords检验
+* disableMetaDescription 关闭meta description检验
+* enableMetaDescription 开启meta description检验
